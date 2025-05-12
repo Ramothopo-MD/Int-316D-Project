@@ -2,26 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/SearchResult.jsp</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/src/java/za/ac/tut/Controller/AddStudentServlet.java</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/src/java/za/ac/tut/Controller/SearchStudentServlet.java</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/Add.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/index.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/ErrorPage.jsp</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/List.jsp</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/DeleteStudentSuccess.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/StudentNotFount.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/EditSuccess.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/src/java/za/ac/tut/Controller/EditStudentServlet.java</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/Remove.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/EditStudent.jsp</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/AddSuccess.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/src/java/za/ac/tut/Controller/SaveEditedStudentServlet.java</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/Edit.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/Menu.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/Search.html</file>
-            <file>file:/C:/Users/Desmond/Documents/NetBeansProjects/LearnerManagement/web/ListAll.html</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
